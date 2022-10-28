@@ -1,0 +1,15 @@
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\bin\Debug\net6.0\Challeng-bank-atm.exe
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\bin\Debug\net6.0\Challeng-bank-atm.deps.json
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\bin\Debug\net6.0\Challeng-bank-atm.runtimeconfig.json
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\bin\Debug\net6.0\Challeng-bank-atm.dll
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\bin\Debug\net6.0\Challeng-bank-atm.pdb
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\Challeng-bank-atm.csproj.AssemblyReference.cache
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\Challeng-bank-atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\Challeng-bank-atm.AssemblyInfoInputs.cache
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\Challeng-bank-atm.AssemblyInfo.cs
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\Challeng-bank-atm.csproj.CoreCompileInputs.cache
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\Challeng-bank-atm.dll
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\refint\Challeng-bank-atm.dll
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\Challeng-bank-atm.pdb
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\Challeng-bank-atm.genruntimeconfig.cache
+C:\Users\johna\Documents\Challeng-bank-atm\Challeng-bank-atm\obj\Debug\net6.0\ref\Challeng-bank-atm.dll
